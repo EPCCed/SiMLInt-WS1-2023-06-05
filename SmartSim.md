@@ -55,3 +55,18 @@ cd $SLURM_SUBMIT_DIR
 # Only running on one node
 export SSDB=127.0.0.1:$DB_PORT
 ```
+
+In the code:
+```
+#include <client.h>
+...
+private:
+  SmartRedis::Client *client;
+...
+protected:
+  int init(bool UNUSED(restart)) {
+    ...
+    // initialise smartredis client
+    bool cluster_mode = false; // Set to false if not using a clustered database
+    client = new SmartRedis::Client(cluster_mode, __FILE__);
+```
