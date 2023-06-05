@@ -27,7 +27,12 @@ target_link_libraries(hasegawa-wakatani PRIVATE
 )
 ```
 
-Copy the example source to a directory `/work` and build
+Copy the example source to a directory `/work`
+```
+cp -r /work/tc045/tc045/shared/bpp_5_0_0_ss_0_4_2/BOUT-dev/examples/hasegawa-wakatani /work/tc045/tc045/<yourusername>
+```
+
+Build
 ```
 cmake . -B build -Dbout++_DIR=/work/tc045/tc045/shared/bpp_5_0_0_ss_0_4_2/BOUT-dev/build -DCMAKE_CXX_FLAGS=-std=c++17 -DCMAKE_BUILD_TYPE=Release
 
