@@ -40,3 +40,17 @@ cmake --build build --target hasegawa-wakatani
 ```
 
 The model and database code are stored in `/work/tc045/tc045/shared/model`.
+
+Add the following to a slurm job submission:
+```
+DB_PORT=6899 # choose a port for the RedisAI db to listen
+conda activate /work/tc045/tc045/sharer/bpp_5_0_0_ss_0_4_2
+
+# Start the orchestrator and a new experiment which launches RedisAI for communication
+python /work/tc045/tc045/shared/model/start_db.py $DB_PORT
+
+# Change to the submission directory
+cd $SLURM_SUBMIT_DIR
+
+export SSDB=127.0.0.1:$DB_PORT
+```
