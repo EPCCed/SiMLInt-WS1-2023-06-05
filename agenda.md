@@ -14,7 +14,7 @@ Presentations from each group
    * 15:30 - 15:50 Coffee break
    * 15:50 - 16:10 Ben Dudson/Ben Zhu
    * 16:10 - 16:30 Josh Williams
-   * 16:30 - 16:50 Robin Heinone
+   * 16:30 - 16:50 Robin Heinonen
 * 16:50 - 18:00: Plenary Discussion - A chance to discuss experiences with using different approaches to BOUT++/ML embedding, lessons learned, wishlist, next steps
 Plasma-specific problems (chair: Moritz)
 * 19:00 dinner at Howies Waterloo Place
