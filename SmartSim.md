@@ -52,5 +52,6 @@ python /work/tc045/tc045/shared/model/start_db.py $DB_PORT
 # Change to the submission directory
 cd $SLURM_SUBMIT_DIR
 
+# Only running on one node
 export SSDB=127.0.0.1:$DB_PORT
 ```
