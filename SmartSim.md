@@ -26,3 +26,10 @@ target_link_libraries(hasegawa-wakatani PRIVATE
     ${SMARTREDIS_LIBRARY}
 )
 ```
+
+Copy the example source to a directory `/work` and build
+```
+cmake . -B build -Dbout++_DIR=/work/tc045/tc045/shared/bpp_5_0_0_ss_0_4_2/BOUT-dev/build -DCMAKE_CXX_FLAGS=-std=c++17 -DCMAKE_BUILD_TYPE=Release
+
+cmake --build build --target hasegawa-wakatani
+```
