@@ -17,7 +17,7 @@ Presentations from each group
    * 16:30 - 16:50 Robin Heinonen
 * 16:50 - 18:00: Plenary Discussion - A chance to discuss experiences with using different approaches to BOUT++/ML embedding, lessons learned, wishlist, next steps
 Plasma-specific problems (chair: Moritz)
-* 19:00 dinner at Howies Waterloo Place
+* 19:00 dinner at [Howies Waterloo Place](https://www.howies.uk.com/venues/howies-waterloo-place/)
 
 ## Tuesday 6 June
 
