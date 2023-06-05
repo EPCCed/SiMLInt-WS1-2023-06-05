@@ -38,3 +38,5 @@ cmake . -B build -Dbout++_DIR=/work/tc045/tc045/shared/bpp_5_0_0_ss_0_4_2/BOUT-d
 
 cmake --build build --target hasegawa-wakatani
 ```
+
+The model and database code are stored in `/work/tc045/tc045/shared/model`.
