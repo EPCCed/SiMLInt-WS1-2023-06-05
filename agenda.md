@@ -3,7 +3,8 @@
 * ~10:00 - 13:00: Hands-on (optional)
 logging on to Cirrus, launching example (and data generation for training ML models where applicable)
 * 13:00 lunch
-* 14:00 - 18:00: [Plenary "Show & tell”](https://github.com/EPCCed/SiMLInt-WS1-2023-06-05/blob/main/ZoomInfo)
+* 14:00 - 18:00: [Plenary "Show & tell”](https://github.com/EPCCed/SiMLInt-WS1-2023-06-05/blob/main/ZoomInfo)<br/>
+[Recording](https://ed-ac-uk.zoom.us/rec/share/jdb2t7IQUQA2ILD9URJhyyXONP0rz7a2JgFIgUaJCRME4uJ3Q4v81jov9omBTbXv.1KV4KEY2V6pibKRd)<br/>
 Introductions/
 Presentations from each group
    * 14:00 - 14:30 EPCC: What do we do & why, On Learned Corrections
