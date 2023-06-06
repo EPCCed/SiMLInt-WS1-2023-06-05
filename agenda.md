@@ -6,7 +6,7 @@ logging on to Cirrus, launching example (and data generation for training ML mod
 * 14:00 - 18:00: [Plenary "Show & tell”](https://github.com/EPCCed/SiMLInt-WS1-2023-06-05/blob/main/ZoomInfo)<br/>
 [Recording](https://ed-ac-uk.zoom.us/rec/share/jdb2t7IQUQA2ILD9URJhyyXONP0rz7a2JgFIgUaJCRME4uJ3Q4v81jov9omBTbXv.1KV4KEY2V6pibKRd)<br/>
 Introductions/
-Presentations from each group
+Presentations from each group with [slides](https://github.com/EPCCed/SiMLInt-WS1-2023-06-05/tree/main/Slides)
    * 14:00 - 14:30 EPCC: What do we do & why, On Learned Corrections
    * 14:30 - 14:50 Jony Castagna
    * 14:50 - 15:00 Stanislas Pamela 
