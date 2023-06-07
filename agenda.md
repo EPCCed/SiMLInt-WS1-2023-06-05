@@ -25,8 +25,8 @@ Plasma-specific problems (chair: Moritz)
 * ~10:00 - 13:00: Hands-on (optional) 
 connecting BOUT++ and python/ML utilising SiMLInt-like approach (based on SmartSim)
 * 13:00 lunch
-* 14:00 - 18:00: [Plenary Discussion](https://github.com/EPCCed/SiMLInt-WS1-2023-06-05/blob/main/ZoomInfo) - A chance to discuss experiences with using different approaches to BOUT++/ML embedding, lessons learned, wishlist, next steps
-ML (chair: Jacob)
+* 14:00 - 18:00: [Plenary Discussion](https://github.com/EPCCed/SiMLInt-WS1-2023-06-05/blob/main/ZoomInfo) - A chance to discuss experiences with using different approaches to BOUT++/ML embedding, lessons learned, wishlist, next steps<br/>
+[Recording](https://ed-ac-uk.zoom.us/rec/share/gLyifA293CvUpANrwfuRXUj7N-JziTLSQt3iIGEdKlLuxb53YlgKCsCpkc4LXmed.292vquOgR-i86KRh?startTime=1686057984000)
 
 ## Wednesday 7 June
 
